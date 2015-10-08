@@ -26,6 +26,8 @@ class SecretSoftware
         'CIRCLECI',
         'JENKINS_URL',
         'HUDSON_URL',
+        'BUILDKITE',
+        'TF_BUILD',
         'bamboo.buildKey',
         'PHPCI',
         'GOCD_SERVER_HOST',
