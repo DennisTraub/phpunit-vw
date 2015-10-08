@@ -109,6 +109,8 @@ Currently detects :
 * Jenkins
 * PHPCI
 * TeamCity
+* Microsoft Team Foundation Server
+* Buildkite
 
 
 Other CI tools using environment variables like 'BUILD_ID' would be detected as well.
